@@ -1,4 +1,4 @@
-🎬 Netflix Titles Dataset (2015) — Exploratory Data Analysis & Feature Engineering
+**🎬 Netflix Titles Dataset (2015) — Exploratory Data Analysis & Feature Engineering**
 
 Netflix Titles Dataset (2015) — Exploratory Data Analysis & Feature Engineering
 This project focuses on performing  Exploratory Data Analysis (EDA) and  Feature Engineering on the Netflix 2015 Titles Dataset. 
@@ -17,7 +17,8 @@ Explored numerical and categorical columns.
 Handled missing values in director, cast, country, release_year
 Identified outliers in release_year and removed them using IQR
 
-🧠 Feature Engineering Summary
+🧠 Feature Engineering Summary:
+
 In the feature engineering phase, multiple new variables were created to enrich the dataset and capture deeper insights from existing information. 
 These features were designed to support downstream tasks like machine learning modeling, dashboarding, or recommendation systems.
 
