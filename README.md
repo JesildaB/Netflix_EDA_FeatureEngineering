@@ -4,11 +4,13 @@ This project focuses on performing  Exploratory Data Analysis (EDA) and  Feature
 
 The goal is to clean, explore, and prepare the data for future tasks like modeling.  
 
+
 📌 Project Goals:  
 
 🧼 Clean and preprocess real-world categorical and numeric data
 📊 Perform exploratory analysis to understand content trends 
 🧠 Engineer smart, model-friendly features from existing columns  
+
 
 
 🔍 EDA Summary:  
@@ -20,6 +22,7 @@ Explored numerical and categorical columns
 Handled missing values in director, cast, country, release_year  
 
 Identified outliers in release_year and removed them using IQR   
+
 
 
 🧠 Feature Engineering Summary:  
@@ -39,6 +42,7 @@ Text-Derived Features: Measured title_word_count and description_len to quantify
 Genre & Country Complexity: Introduced num_genres (count of genres per title) and is_multi_country (flag for multi-country productions). 
 
 Release Timing Lag: Computed days_to_netflix to capture how quickly content became available on Netflix after its release.   
+
 
 
 🛠️ Tech Stack  
