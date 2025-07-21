@@ -1,6 +1,6 @@
 **🎬 Netflix Titles Dataset (2015) — Exploratory Data Analysis & Feature Engineering**
 
-Netflix Titles Dataset (2015) — Exploratory Data Analysis & Feature Engineering
+
 This project focuses on performing  Exploratory Data Analysis (EDA) and  Feature Engineering on the Netflix 2015 Titles Dataset. 
 The goal is to clean, explore, and prepare the data for future tasks like modeling.
 
