@@ -5,7 +5,7 @@ This project focuses on performing  Exploratory Data Analysis (EDA) and  Feature
 The goal is to clean, explore, and prepare the data for future tasks like modeling.  
 
 
-**📌 Project Goals: ** 
+📌 **Project Goals:**
 
 🧼 Clean and preprocess real-world categorical and numeric data
 📊 Perform exploratory analysis to understand content trends 
@@ -45,7 +45,7 @@ Release Timing Lag: Computed days_to_netflix to capture how quickly content beca
 
 
 
-**🛠️ Tech Stack ** 
+🛠️** Tech Stack**
 
 Python: pandas, NumPy, matplotlib, seaborn, scikit-learn  
 
