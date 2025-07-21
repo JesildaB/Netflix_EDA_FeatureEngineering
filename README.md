@@ -5,7 +5,7 @@ This project focuses on performing  Exploratory Data Analysis (EDA) and  Feature
 The goal is to clean, explore, and prepare the data for future tasks like modeling.  
 
 
-📌 Project Goals:  
+**📌 Project Goals: ** 
 
 🧼 Clean and preprocess real-world categorical and numeric data
 📊 Perform exploratory analysis to understand content trends 
@@ -13,7 +13,7 @@ The goal is to clean, explore, and prepare the data for future tasks like modeli
 
 
 
-🔍 EDA Summary:  
+**🔍 EDA Summary:**  
 
 Visualized the distribution of movies vs. TV shows  
 
@@ -25,7 +25,7 @@ Identified outliers in release_year and removed them using IQR
 
 
 
-🧠 Feature Engineering Summary:  
+**🧠 Feature Engineering Summary:**  
 
 In the feature engineering phase, multiple new variables were created to enrich the dataset and capture deeper insights from existing information.   
 
@@ -45,7 +45,7 @@ Release Timing Lag: Computed days_to_netflix to capture how quickly content beca
 
 
 
-🛠️ Tech Stack  
+**🛠️ Tech Stack ** 
 
 Python: pandas, NumPy, matplotlib, seaborn, scikit-learn  
 
